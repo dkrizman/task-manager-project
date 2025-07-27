@@ -1,4 +1,4 @@
-# Start PostgreSQL
+t remote add # Start PostgreSQL
 echo "🐘 Starting PostgreSQL..."
 docker-compose -f docker-compose.dev.yml up -d db
 
